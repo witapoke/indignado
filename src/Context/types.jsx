@@ -1,0 +1,1 @@
+export const HANDLE_INP_CHANGE = 'HANDLE_INP_CHANGE'
